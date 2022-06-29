@@ -1,2 +1,2 @@
- #!/bin/bash 
- echo $((BREATH ** LOVE))
+#!/bin/bash 
+file -name "*.js" -type f .delete

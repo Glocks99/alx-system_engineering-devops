@@ -1,2 +1,2 @@
- #!/bin/bash 
- echo -e $((128 + TRUEKNOWLEDGE))
+#!/bin/bash 
+ls -la > ls_cwd_content

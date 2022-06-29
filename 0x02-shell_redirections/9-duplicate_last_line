@@ -1,2 +1,2 @@
 #!/bin/bash 
-echo $((POWER / DIVIDE))
+tail -1 < iacta >> iacta
